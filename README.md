@@ -1,0 +1,2 @@
+# slidev-skel
+slidev workspace
