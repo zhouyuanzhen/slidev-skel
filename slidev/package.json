@@ -1,0 +1,15 @@
+{
+    "name": "slidev-skel",
+    "private": true,
+    "scripts": {
+        "build": "slidev build",
+        "dev": "slidev --open",
+        "all": "slidev --open all.md",
+        "export": "slidev export"
+    },
+    "dependencies": {
+        "@slidev/cli": "^0.40",
+        "@slidev/theme-default": "*",
+        "@slidev/theme-seriph": "*"
+    }
+}
